@@ -9,11 +9,16 @@
 
 .p-card .p-card-title {
     margin-bottom: 0;
-    line-height: var(--line-height-10);
-    font-size: var(--font-size-10);
+    line-height: var(--line-height-6);
+    font-size: var(--font-size-6);
     font-weight: 300;
     letter-spacing: 0.5px;
     color: var(--black);
+    @media all and (min-width: $medium) {
+        @include typeface(primary, 9);
+        font-weight: 300;
+        letter-spacing: 0.5px;
+    }
 }
 
 .p-card .p-card-body {

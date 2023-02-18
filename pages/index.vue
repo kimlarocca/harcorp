@@ -1,5 +1,10 @@
 <template>
   <div class="home">
+    <Html lang="en">
+      <Head>
+        <Title>Harcorp LLC | Overview</Title>
+      </Head>
+    </Html>
     <section class="hero mb-7">
       <div class="container">
         <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do</h1>
