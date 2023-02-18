@@ -1,0 +1,65 @@
+.p-button,
+.p-button:visited {
+    cursor: pointer;
+    color: var(--white);
+    background: var(--blue);
+    text-align: center;
+    border-radius: 8px;
+    width: fit-content;
+    text-transform: uppercase;
+    padding: 0 20px;
+    border: none;
+    font-size: var(--font-size-5);
+    line-height: var(--forms-input-height);
+    height: var(--forms-input-height);
+    letter-spacing: 0.5px;
+    opacity: 1;
+    transition: var(--transition);
+    i {
+        font-size: var(--font-size-4);
+    }
+    &:hover,
+    &:enabled:hover {
+        color: var(--white);
+        background: var(--blue);
+        opacity: var(--opacity-on-hover);
+    }
+}
+
+.p-button.full-width {
+    width: 100%;
+}
+
+.p-button.dark,
+.p-button.dark:visited {
+    cursor: pointer;
+    color: var(--white);
+    background: var(--black);
+    &:hover,
+    &:enabled:hover {
+        color: var(--white);
+        background: var(--black);
+    }
+}
+
+.p-button.ghost,
+.p-button.ghost:visited {
+    border: solid 1px var(--blue) !important;
+    background: var(--white) !important;
+    color: var(--blue) !important;
+}
+
+.p-button.ghost.dark,
+.p-button.ghost.dark:visited {
+    border: solid 1px var(--white) !important;
+    background: transparent !important;
+    color: var(--white) !important;
+}
+
+.p-tag-value {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.1px;
+    padding: 2px 16px 0;
+}

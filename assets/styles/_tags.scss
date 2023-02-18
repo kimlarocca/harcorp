@@ -1,0 +1,7 @@
+.p-tag {
+    transition: var(--transition);
+}
+.p-tag.selected {
+    background-color: var(--yellow);
+    color: var(--black);
+}

@@ -1,0 +1,25 @@
+.p-card {
+    background-color: var(--light-gray);
+    padding: 25px 25px;
+    border-radius: 8px;
+    box-shadow: none;
+    color: var(--black);
+    height: 100%;
+}
+
+.p-card .p-card-title {
+    margin-bottom: 0;
+    line-height: var(--line-height-10);
+    font-size: var(--font-size-10);
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    color: var(--black);
+}
+
+.p-card .p-card-body {
+    padding-bottom: 0;
+}
+
+.p-card .p-card-content p {
+    font-size: 1rem;
+}
