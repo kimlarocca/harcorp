@@ -5,7 +5,8 @@
         <img src="/images/logo.png" class="logo" alt="harcorp logo" />
       </div>
       <div class="col text-right">
-        <i class="pi pi-bars"></i>
+        <!-- <i class="pi pi-bars"></i> -->
+        <a href="#" target="_blank" class="p-button"> Vendor Login </a>
       </div>
     </div>
   </header>

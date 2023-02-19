@@ -7,12 +7,18 @@
     </Html>
     <section class="hero mb-8">
       <div class="container">
-        <h1>Hero section! Lorem ipsum dolor sit amet, consectetur adipiscin</h1>
+        <h1>
+          We strive to provide an excellent customer experience, customer care
+          and job completion for all our clients.
+        </h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ipsum
-          dolor sit amet, consectetur
+          Harcorp is a management company that will take on contract task
+          requirements and give recommendations on how to best execute an action
+          plan to conclusion.
         </p>
-        <a href="#" class="p-button">Call To Action Goes Here</a>
+        <a href="mailto:bids@harcorp.org" class="p-button">
+          Contact Us & Get A Quote
+        </a>
       </div>
       <div class="bubbles">
         <div class="bubble x1"></div>
@@ -51,15 +57,15 @@
       </div>
     </section>
     <section class="container mb-7">
-      <h3 class="mb-4">Text Section With White Background</h3>
+      <h3 class="mb-4">Administrative Service</h3>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-        mollit anim id est laborum.
+        The Administrative service will support our clients' needs by providing
+        general administrative functions of a wide variety of administrative
+        units including answering phones, greeting/referring/assisting visitors,
+        customers, staff, or others, preparing documents and reports, compiling
+        records, scheduling meetings, organizing and maintaining information,
+        coordinating calendars, analyzing data including budgetary expenditures,
+        and providing general office support.
       </p>
     </section>
     <section class="mb-6">
@@ -70,20 +76,17 @@
             src="https://images.unsplash.com/photo-1462826303086-329426d1aef5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=768&q=80"
           />
         </div>
-        <div class="col-12 lg:col-7 p-6 mb-4">
-          <h3 class="mb-4">Image On Left Section</h3>
+        <div class="col-12 lg:col-7 p-4 lg:p-8 mb-4">
+          <h3 class="mb-4">Virtual Workspace</h3>
           <p class="mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+            Harcorp will provide a virtual workspace that will give your team
+            access to their workspace based on your company profiles. This will
+            allow your team to track and manage every opportunity you wish to
+            pursue.
           </p>
           <p>
-            <a href="#">
-              Click here to learn more
+            <a href="mailto:info@harcorp.org">
+              Contact us to learn more
               <i class="pi pi-angle-double-right" style="font-size: 0.75rem" />
             </a>
           </p>
@@ -92,20 +95,27 @@
     </section>
     <section class="mb-6">
       <div class="grid">
-        <div class="col-12 lg:col-7 flex-order-1 lg:flex-order-0 p-6 mb-4">
-          <h3 class="mb-4">Image on Right Section</h3>
+        <div
+          class="
+            col-12
+            lg:col-7
+            flex-order-1
+            lg:flex-order-0
+            p-4
+            lg:p-8 lg:p-8
+            mb-4
+          "
+        >
+          <h3 class="mb-4">Bid Sourcing</h3>
           <p class="mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+            Harcorp will provide targeted leads directly to your inbox or to
+            your virtual workspace. Regional package to include to include
+            bidding opportunities from state, local, and federal jurisdictions.
+            These would be leads sent directly to your inbox.
           </p>
           <p>
-            <a href="#">
-              Click here to learn more
+            <a href="mailto:info@harcorp.org">
+              Contact us to learn more
               <i class="pi pi-angle-double-right" style="font-size: 0.75rem" />
             </a>
           </p>
@@ -118,60 +128,85 @@
         </div>
       </div>
     </section>
+    <section class="mb-6">
+      <div class="grid">
+        <div class="col-12 lg:col mb-4">
+          <img
+            alt="conference room"
+            src="https://images.unsplash.com/photo-1634988115889-6fd7b3964ce5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=768&q=80"
+          />
+        </div>
+        <div class="col-12 lg:col-7 p-4 lg:p-8 mb-4">
+          <h3 class="mb-4">Answering Service</h3>
+          <p class="mb-4">
+            Harcorp will provide targeted leads directly to your inbox or to
+            your virtual workspace. Regional package to include to include
+            bidding opportunities from state, local, and federal jurisdictions.
+            These would be leads sent directly to your inbox.
+          </p>
+          <p>
+            <a href="mailto:info@harcorp.org">
+              Contact us to learn more
+              <i class="pi pi-angle-double-right" style="font-size: 0.75rem" />
+            </a>
+          </p>
+        </div>
+      </div>
+    </section>
     <section class="container mb-6">
       <div class="grid">
         <Card class="col-12 lg:col mb-4">
-          <template #title>Small Card Section</template>
+          <template #title>NAICS Codes</template>
           <template #content>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam.
-            </p>
-          </template>
-          <template #footer>
-            <Button icon="pi pi-angle-double-right" label="Learn More" />
+            <li>
+              <strong>811210</strong> (Electronic and Precision Equipment repair
+              and maintenance)
+            </li>
+            <li>
+              <strong>551114</strong> (Corporate, subsidiary, regional
+              management office)
+            </li>
+            <li><strong>561110</strong> (Office administration service).</li>
           </template>
         </Card>
         <div class="col-fixed" style="width: 32px"></div>
         <Card class="col-12 lg:col mb-4">
-          <template #title>Small Card Section</template>
+          <template #title>CBE Certification</template>
           <template #content>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam.
+              Our CBE # is <strong>LSZR6077207202</strong>. Lorem ipsum dolor
+              sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+              incididunt ut labore et dolore magna.
             </p>
-          </template>
-          <template #footer>
-            <Button icon="pi pi-angle-double-right" label="Learn More" />
           </template>
         </Card>
         <div class="col-fixed" style="width: 32px"></div>
         <Card class="col-12 lg:col mb-4">
-          <template #title>Small Card Section</template>
+          <template #title>Join Our Network</template>
           <template #content>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam.
+              <a href="mailto:info@harcorp.org">Send us an email</a> if you'd
+              like to learn more about joining our network!
             </p>
           </template>
           <template #footer>
-            <Button icon="pi pi-angle-double-right" label="Learn More" />
+            <a href="mailto:info@harcorp.org" class="plain">
+              <Button icon="pi pi-angle-double-right" label="Learn More"
+            /></a>
           </template>
         </Card>
       </div>
     </section>
     <section class="dark lg:text-center p-6 mb-7">
-      <h2 class="white mb-4">Text Section With Dark Background</h2>
+      <h2 class="white mb-4">About Us</h2>
       <p class="white lg:w-9 m-auto mb-4">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat.
+        Harcorp is a management firm incorporated in 2018. Harcorp is a CBE
+        small business, our companies' policies and procedures are based on
+        industry standards established throughout the nation.
       </p>
-      <a href="#" class="p-button ghost dark">Get Started Today</a>
+      <a href="mailto:bids@harcorp.org" class="p-button ghost dark">
+        Contact Us & Get A Quote
+      </a>
     </section>
     <section class="container">
       <div class="grid">
@@ -242,7 +277,7 @@ $large: 992px;
       color: white;
       font-size: 21px;
       line-height: 30px;
-      width: 500px;
+      width: 975px;
       max-width: 100%;
       margin: auto;
       margin-bottom: 40px;
