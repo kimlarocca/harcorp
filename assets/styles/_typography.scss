@@ -33,7 +33,7 @@ h2,
   @include typeface(primary, 10);
   font-weight: 300;
   @media all and (min-width: $medium) {
-    @include typeface(primary, 14);
+    @include typeface(primary, 13);
     font-weight: 300;
   }
 }

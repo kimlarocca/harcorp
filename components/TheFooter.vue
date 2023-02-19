@@ -3,9 +3,6 @@
     <Divider class="my-7" />
     <img src="/images/logo.png" class="logo" alt="harcorp logo" />
     <div class="my-4">
-      <a href="https://www.instagram.com" target="_blank" class="mr-4">
-        Instagram
-      </a>
       <a href="https://www.facebook.com" target="_blank" class="mr-4">
         Facebook
       </a>

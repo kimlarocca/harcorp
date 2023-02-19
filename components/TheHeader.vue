@@ -1,6 +1,6 @@
 <template>
-  <header class="container p-3 pb-2">
-    <div class="grid align-items-center">
+  <header class="p-2">
+    <div class="container grid align-items-center">
       <div class="col">
         <img src="/images/logo.png" class="logo" alt="harcorp logo" />
       </div>
@@ -12,6 +12,14 @@
 </template>
 
 <style lang="scss">
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  background: var(--white);
+}
 .logo {
   height: 50px;
 }

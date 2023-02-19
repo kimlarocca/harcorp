@@ -5,9 +5,9 @@
         <Title>Harcorp LLC | Overview</Title>
       </Head>
     </Html>
-    <section class="hero mb-7">
+    <section class="hero mb-8">
       <div class="container">
-        <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do</h1>
+        <h1>Hero section! Lorem ipsum dolor sit amet, consectetur adipiscin</h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ipsum
           dolor sit amet, consectetur
@@ -25,10 +25,10 @@
         <div class="bubble x8"></div>
       </div>
     </section>
-    <section class="container mb-7">
+    <section class="container mb-5">
       <div class="grid">
-        <div class="col-12 lg:col box1 p-5">
-          <h2 class="mb-4">Subheading 1</h2>
+        <div class="col-12 lg:col box1 p-5 mb-4">
+          <h2 class="mb-4">Large Card Section</h2>
           <p class="mb-4">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -38,8 +38,8 @@
           <a class="p-button">Learn More</a>
         </div>
         <div class="col-fixed" style="width: 48px"></div>
-        <div class="col-12 lg:col box2 p-5">
-          <h2 class="mb-4">Subheading 2</h2>
+        <div class="col-12 lg:col box2 p-5 mb-4">
+          <h2 class="mb-4">Large Card Section</h2>
           <p class="mb-4">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
@@ -51,7 +51,7 @@
       </div>
     </section>
     <section class="container mb-7">
-      <h3 class="mb-4">Section Heading</h3>
+      <h3 class="mb-4">Text Section With White Background</h3>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
@@ -62,17 +62,17 @@
         mollit anim id est laborum.
       </p>
     </section>
-    <section class="mb-7">
+    <section class="mb-6">
       <div class="grid">
-        <div class="col-12 lg:col">
+        <div class="col-12 lg:col mb-4">
           <img
             alt="conference room"
             src="https://images.unsplash.com/photo-1462826303086-329426d1aef5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=768&q=80"
           />
         </div>
-        <div class="col-12 lg:col-7 p-6">
-          <h3 class="mb-4">Section Heading</h3>
-          <p>
+        <div class="col-12 lg:col-7 p-6 mb-4">
+          <h3 class="mb-4">Image On Left Section</h3>
+          <p class="mb-4">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
@@ -81,15 +81,20 @@
             pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
             culpa qui officia deserunt mollit anim id est laborum.
           </p>
-          <p><a href="#">Click here to learn more.</a></p>
+          <p>
+            <a href="#">
+              Click here to learn more
+              <i class="pi pi-angle-double-right" style="font-size: 0.75rem" />
+            </a>
+          </p>
         </div>
       </div>
     </section>
-    <section class="mb-7">
+    <section class="mb-6">
       <div class="grid">
-        <div class="col-12 lg:col-7 p-6">
-          <h3 class="mb-4">Section Heading</h3>
-          <p>
+        <div class="col-12 lg:col-7 flex-order-1 lg:flex-order-0 p-6 mb-4">
+          <h3 class="mb-4">Image on Right Section</h3>
+          <p class="mb-4">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
             ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
@@ -98,9 +103,14 @@
             pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
             culpa qui officia deserunt mollit anim id est laborum.
           </p>
-          <p><a href="#">Click here to learn more.</a></p>
+          <p>
+            <a href="#">
+              Click here to learn more
+              <i class="pi pi-angle-double-right" style="font-size: 0.75rem" />
+            </a>
+          </p>
         </div>
-        <div class="col-12 lg:col">
+        <div class="col-12 lg:col flex-order-0 lg:flex-order-1 mb-4">
           <img
             alt="conference room"
             src="https://images.unsplash.com/photo-1634988115889-6fd7b3964ce5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=768&q=80"
@@ -108,10 +118,10 @@
         </div>
       </div>
     </section>
-    <section class="container mb-7">
+    <section class="container mb-6">
       <div class="grid">
-        <Card class="col-12 lg:col">
-          <template #title>Triple Card Heading</template>
+        <Card class="col-12 lg:col mb-4">
+          <template #title>Small Card Section</template>
           <template #content>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -124,8 +134,8 @@
           </template>
         </Card>
         <div class="col-fixed" style="width: 32px"></div>
-        <Card class="col-12 lg:col">
-          <template #title>Triple Card Heading</template>
+        <Card class="col-12 lg:col mb-4">
+          <template #title>Small Card Section</template>
           <template #content>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -138,8 +148,8 @@
           </template>
         </Card>
         <div class="col-fixed" style="width: 32px"></div>
-        <Card class="col-12 lg:col">
-          <template #title>Triple Card Heading</template>
+        <Card class="col-12 lg:col mb-4">
+          <template #title>Small Card Section</template>
           <template #content>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -153,9 +163,9 @@
         </Card>
       </div>
     </section>
-    <section class="dark text-center p-6 mb-7">
-      <h2 class="white mb-4">Section Heading</h2>
-      <p class="white w-9 m-auto mb-4">
+    <section class="dark lg:text-center p-6 mb-7">
+      <h2 class="white mb-4">Text Section With Dark Background</h2>
+      <p class="white lg:w-9 m-auto mb-4">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
@@ -165,24 +175,24 @@
     </section>
     <section class="container">
       <div class="grid">
-        <div class="col-6 lg:col text-center">
+        <div class="col-6 lg:col text-center mb-4">
           <i class="pi pi-heart blue mb-3" style="font-size: 3rem"></i>
-          <h4 class="mb-2">Icon Heading</h4>
+          <h4 class="mb-2">Icon Card Section</h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
-        <div class="col-6 lg:col text-center">
+        <div class="col-6 lg:col text-center mb-4">
           <i class="pi pi-lock blue mb-3" style="font-size: 3rem"></i>
-          <h4 class="mb-2">Icon Heading</h4>
+          <h4 class="mb-2">Icon Card Section</h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
-        <div class="col-6 lg:col text-center">
+        <div class="col-6 lg:col text-center mb-4">
           <i class="pi pi-star blue mb-3" style="font-size: 3rem"></i>
-          <h4 class="mb-2">Icon Heading</h4>
+          <h4 class="mb-2">Icon Card Section</h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
-        <div class="col-6 lg:col text-center">
+        <div class="col-6 lg:col text-center mb-4">
           <i class="pi pi-box blue mb-3" style="font-size: 3rem"></i>
-          <h4 class="mb-2">Icon Heading</h4>
+          <h4 class="mb-2">Icon Card Section</h4>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
       </div>
@@ -197,7 +207,6 @@ $large: 992px;
 .home .hero {
   background: var(--black) url("/images/home-hero.jpg") top center no-repeat;
   text-align: center;
-  margin-bottom: 40px;
   overflow: hidden;
   position: relative;
 
@@ -207,7 +216,7 @@ $large: 992px;
     padding: 80px;
 
     @media all and (max-width: $medium) {
-      padding: 40px;
+      padding: 40px 30px;
     }
 
     h1 {
