@@ -1,20 +1,22 @@
 <template>
-  <header class="p-1">
-    <div class="container grid align-items-center">
-      <div class="col">
-        <nuxt-link to="/" class="plain flex">
-          <img src="/images/logo.png" class="logo" alt="harcorp logo" />
-        </nuxt-link>
-      </div>
-      <div class="col text-right">
-        <!-- <i class="pi pi-bars"></i> -->
-        <a
-          href="https://app.clickup.com/login"
-          target="_blank"
-          class="p-button"
-        >
-          Vendor Login
-        </a>
+  <header>
+    <div class="container">
+      <div class="grid align-items-center">
+        <div class="col">
+          <nuxt-link to="/" class="plain flex">
+            <img src="/images/logo.png" class="logo" alt="harcorp logo" />
+          </nuxt-link>
+        </div>
+        <div class="col text-right">
+          <!-- <i class="pi pi-bars"></i> -->
+          <a
+            href="https://app.clickup.com/login"
+            target="_blank"
+            class="p-button"
+          >
+            Vendor Login
+          </a>
+        </div>
       </div>
     </div>
   </header>
@@ -28,6 +30,8 @@ header {
   right: 0;
   z-index: 999;
   background: var(--white);
+  padding-top: 12px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
 }
 .logo {
   height: 50px;

@@ -1,12 +1,6 @@
 <template>
   <footer class="container text-center mb-8">
-    <p>
-      <nuxt-link to="/">
-        <i class="pi pi-angle-double-left" style="font-size: 0.75rem" />
-        go back to the home page
-      </nuxt-link>
-    </p>
-    <Divider class="my-7" />
+    <Divider class="mt-4 mb-7" />
     <nuxt-link to="/" class="plain">
       <img src="/images/logo.png" class="logo" alt="harcorp logo" />
     </nuxt-link>

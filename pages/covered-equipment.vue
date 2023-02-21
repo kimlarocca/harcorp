@@ -6,11 +6,13 @@
       </Head>
     </Html>
     <section class="secondary-hero mb-8">
-      <div class="container">
-        <h1>Covered Equipment</h1>
+      <div class="container grid">
+        <div class="col">
+          <h1>Covered Equipment</h1>
+        </div>
       </div>
     </section>
-    <section>
+    <section class="mb-6">
       <div class="grid">
         <div class="col-12 lg:col mb-4">
           <img
@@ -77,5 +79,6 @@
         </div>
       </div>
     </section>
+    <back-to-home />
   </div>
 </template>
