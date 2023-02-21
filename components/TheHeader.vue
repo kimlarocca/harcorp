@@ -1,12 +1,20 @@
 <template>
-  <header class="p-2">
+  <header class="p-1">
     <div class="container grid align-items-center">
       <div class="col">
-        <img src="/images/logo.png" class="logo" alt="harcorp logo" />
+        <nuxt-link to="/" class="plain flex">
+          <img src="/images/logo.png" class="logo" alt="harcorp logo" />
+        </nuxt-link>
       </div>
       <div class="col text-right">
         <!-- <i class="pi pi-bars"></i> -->
-        <a href="#" target="_blank" class="p-button"> Vendor Login </a>
+        <a
+          href="https://app.clickup.com/login"
+          target="_blank"
+          class="p-button"
+        >
+          Vendor Login
+        </a>
       </div>
     </div>
   </header>

@@ -1,7 +1,15 @@
 <template>
   <footer class="container text-center mb-8">
+    <p>
+      <nuxt-link to="/">
+        <i class="pi pi-angle-double-left" style="font-size: 0.75rem" />
+        go back to the home page
+      </nuxt-link>
+    </p>
     <Divider class="my-7" />
-    <img src="/images/logo.png" class="logo" alt="harcorp logo" />
+    <nuxt-link to="/" class="plain">
+      <img src="/images/logo.png" class="logo" alt="harcorp logo" />
+    </nuxt-link>
     <div class="flex justify-content-center mt-4 mb-3">
       <p>Tele: <a href="tel:202-422-2453" class="mr-4">202-422-2453 </a></p>
       <p>

@@ -43,7 +43,6 @@ a:visited,
 a:active {
   text-decoration: none;
   font-family: var(--font-family-primary);
-  border-bottom: solid 1px var(--blue);
   color: var(--blue);
   transition: var(--transition);
   opacity: 1;
@@ -64,7 +63,7 @@ a.plain,
 
 main {
   padding-bottom: 30px;
-  margin-top: 80px;
+  margin-top: 74px;
 }
 
 .container {

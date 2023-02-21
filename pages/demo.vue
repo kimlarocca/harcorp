@@ -17,7 +17,7 @@
           plan to conclusion.
         </p>
         <a href="mailto:bids@harcorp.org" class="p-button">
-          Contact Us & Get A Quote
+          Contact Us To Get A Quote
         </a>
       </div>
       <div class="bubbles">
@@ -34,46 +34,25 @@
     <section class="container mb-5">
       <div class="grid">
         <div class="col-12 lg:col box1 p-5 mb-4">
-          <h2 class="mb-4">Large Card Section</h2>
+          <h2 class="mb-4">Harcorp Contract Management Program</h2>
           <p class="mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat.
+            Harcorp will manage multiple service agreements into one. We do not
+            maintain or repair equipment. Our contract management program will
+            offer any entity reduced costs, vendor flexibility all with a single
+            point of contact.
           </p>
-          <a class="p-button">Learn More</a>
-        </div>
-        <div class="col-fixed" style="width: 48px"></div>
-        <div class="col-12 lg:col box2 p-5 mb-4">
-          <h2 class="mb-4">Large Card Section</h2>
-          <p class="mb-4">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat.
-          </p>
-          <a class="p-button">Learn More</a>
+          <nuxt-link to="/covered-equipment" class="p-button">
+            Learn More
+          </nuxt-link>
         </div>
       </div>
-    </section>
-    <section class="container mb-7">
-      <h3 class="mb-4">Administrative Service</h3>
-      <p>
-        The Administrative service will support our clients' needs by providing
-        general administrative functions of a wide variety of administrative
-        units including answering phones, greeting/referring/assisting visitors,
-        customers, staff, or others, preparing documents and reports, compiling
-        records, scheduling meetings, organizing and maintaining information,
-        coordinating calendars, analyzing data including budgetary expenditures,
-        and providing general office support.
-      </p>
     </section>
     <section class="mb-6">
       <div class="grid">
         <div class="col-12 lg:col mb-4">
           <img
-            alt="conference room"
-            src="https://images.unsplash.com/photo-1462826303086-329426d1aef5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=768&q=80"
+            alt="laptop opened to a analytics dashboard in a virtual workspace"
+            src="/images/virtual-workspace.jpg"
           />
         </div>
         <div class="col-12 lg:col-7 p-4 lg:p-8 mb-4">
@@ -96,15 +75,7 @@
     <section class="mb-6">
       <div class="grid">
         <div
-          class="
-            col-12
-            lg:col-7
-            flex-order-1
-            lg:flex-order-0
-            p-4
-            lg:p-8 lg:p-8
-            mb-4
-          "
+          class="col-12 lg:col-7 flex-order-1 lg:flex-order-0 p-4 lg:p-8 lg:p-8 mb-4"
         >
           <h3 class="mb-4">Bid Sourcing</h3>
           <p class="mb-4">
@@ -122,38 +93,24 @@
         </div>
         <div class="col-12 lg:col flex-order-0 lg:flex-order-1 mb-4">
           <img
-            alt="conference room"
-            src="https://images.unsplash.com/photo-1634988115889-6fd7b3964ce5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=768&q=80"
+            alt="desktop computer with a bright abstract background with an iPhone charging in the foreground"
+            src="/images/bid-sourcing.jpg"
           />
         </div>
       </div>
     </section>
-    <section class="mb-6">
-      <div class="grid">
-        <div class="col-12 lg:col mb-4">
-          <img
-            alt="conference room"
-            src="https://images.unsplash.com/photo-1634988115889-6fd7b3964ce5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=768&q=80"
-          />
-        </div>
-        <div class="col-12 lg:col-7 p-4 lg:p-8 mb-4">
-          <h3 class="mb-4">Answering Service</h3>
-          <p class="mb-4">
-            Harcorp will provide targeted leads directly to your inbox or to
-            your virtual workspace. Regional package to include to include
-            bidding opportunities from state, local, and federal jurisdictions.
-            These would be leads sent directly to your inbox.
-          </p>
-          <p>
-            <a href="mailto:info@harcorp.org">
-              Contact us to learn more
-              <i class="pi pi-angle-double-right" style="font-size: 0.75rem" />
-            </a>
-          </p>
-        </div>
-      </div>
+    <section class="dark lg:text-center p-6 mb-7">
+      <h2 class="white mb-4">About Us</h2>
+      <p class="white lg:w-9 m-auto mb-4">
+        Harcorp is a management firm incorporated in 2018. Harcorp is a CBE
+        small business, our companies' policies and procedures are based on
+        industry standards established throughout the nation.
+      </p>
+      <a href="mailto:bids@harcorp.org" class="p-button ghost dark">
+        Contact Us & Get A Quote
+      </a>
     </section>
-    <section class="container mb-6">
+    <section class="container">
       <div class="grid">
         <Card class="col-12 lg:col mb-4">
           <template #title>NAICS Codes</template>
@@ -185,51 +142,16 @@
           <template #title>Join Our Network</template>
           <template #content>
             <p>
-              <a href="mailto:info@harcorp.org">Send us an email</a> if you'd
+              <a href="mailto:join@harcorp.org">Send us an email</a> if you'd
               like to learn more about joining our network!
             </p>
           </template>
           <template #footer>
-            <a href="mailto:info@harcorp.org" class="plain">
+            <a href="mailto:join@harcorp.org" class="plain">
               <Button icon="pi pi-angle-double-right" label="Learn More"
             /></a>
           </template>
         </Card>
-      </div>
-    </section>
-    <section class="dark lg:text-center p-6 mb-7">
-      <h2 class="white mb-4">About Us</h2>
-      <p class="white lg:w-9 m-auto mb-4">
-        Harcorp is a management firm incorporated in 2018. Harcorp is a CBE
-        small business, our companies' policies and procedures are based on
-        industry standards established throughout the nation.
-      </p>
-      <a href="mailto:bids@harcorp.org" class="p-button ghost dark">
-        Contact Us & Get A Quote
-      </a>
-    </section>
-    <section class="container">
-      <div class="grid">
-        <div class="col-6 lg:col text-center mb-4">
-          <i class="pi pi-heart blue mb-3" style="font-size: 3rem"></i>
-          <h4 class="mb-2">Icon Card Section</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </div>
-        <div class="col-6 lg:col text-center mb-4">
-          <i class="pi pi-lock blue mb-3" style="font-size: 3rem"></i>
-          <h4 class="mb-2">Icon Card Section</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </div>
-        <div class="col-6 lg:col text-center mb-4">
-          <i class="pi pi-star blue mb-3" style="font-size: 3rem"></i>
-          <h4 class="mb-2">Icon Card Section</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </div>
-        <div class="col-6 lg:col text-center mb-4">
-          <i class="pi pi-box blue mb-3" style="font-size: 3rem"></i>
-          <h4 class="mb-2">Icon Card Section</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </div>
       </div>
     </section>
   </div>
