@@ -130,11 +130,7 @@
         <Card class="col-12 lg:col mb-4">
           <template #title>CBE Certification</template>
           <template #content>
-            <p>
-              Our CBE # is <strong>LSZR6077207202</strong>. Lorem ipsum dolor
-              sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna.
-            </p>
+            <p>Our CBE # is <strong>LSZR6077207202</strong>.</p>
           </template>
         </Card>
         <div class="col-fixed" style="width: 32px"></div>
