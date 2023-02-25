@@ -80,9 +80,9 @@
           <h3 class="mb-4">Bid Sourcing</h3>
           <p class="mb-4">
             Harcorp will provide targeted leads directly to your inbox or to
-            your virtual workspace. Regional package to include to include
-            bidding opportunities from state, local, and federal jurisdictions.
-            These would be leads sent directly to your inbox.
+            your virtual workspace. Regional package to include bidding
+            opportunities from state, local, and federal jurisdictions. These
+            would be leads sent directly to your inbox.
           </p>
           <p>
             <a href="mailto:info@harcorp.org">

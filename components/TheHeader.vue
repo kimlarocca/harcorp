@@ -14,7 +14,7 @@
             target="_blank"
             class="p-button"
           >
-            Vendor Login
+            Login
           </a>
         </div>
       </div>
