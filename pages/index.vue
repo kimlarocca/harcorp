@@ -11,7 +11,7 @@
           We strive to provide an excellent customer experience, customer care
           and job completion for all our clients.
         </h1>
-        <p>
+        <p class="hidden lg:block">
           Harcorp is a management company that will take on contract task
           requirements and give recommendations on how to best execute an action
           plan to conclusion.
