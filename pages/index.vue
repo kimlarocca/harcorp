@@ -138,12 +138,12 @@
           <template #title>Join Our Network</template>
           <template #content>
             <p>
-              <a href="mailto:join@harcorp.org">Send us an email</a> if you'd
+              <a href="mailto:service@harcorp.org">Send us an email</a> if you'd
               like to learn more about joining our network!
             </p>
           </template>
           <template #footer>
-            <a href="mailto:join@harcorp.org" class="plain">
+            <a href="mailto:service@harcorp.org" class="plain">
               <Button icon="pi pi-angle-double-right" label="Learn More"
             /></a>
           </template>
@@ -158,7 +158,7 @@ $medium: 768px;
 $large: 992px;
 
 .home .hero {
-  background: var(--black) url("/images/home-hero.jpg") top center no-repeat;
+  background: var(--black) url('/images/home-hero.jpg') top center no-repeat;
   text-align: center;
   overflow: hidden;
   position: relative;
@@ -216,12 +216,12 @@ $large: 992px;
 }
 
 .box1 {
-  background: url("/images/box1.png") center center no-repeat;
+  background: url('/images/box1.png') center center no-repeat;
   background-size: cover;
 }
 
 .box2 {
-  background: url("/images/box2.png") center center no-repeat;
+  background: url('/images/box2.png') center center no-repeat;
   background-size: cover;
 }
 
