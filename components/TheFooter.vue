@@ -5,7 +5,7 @@
       <img src="/images/logo.png" class="logo" alt="harcorp logo" />
     </nuxt-link>
     <div class="lg:flex justify-content-center mt-4 mb-3">
-      <p>Tele: <a href="tel:202-422-2453" class="mr-4">202-422-2453 </a></p>
+      <p>Tele: <a href="tel:202-964-3692" class="mr-4">202-964-3692</a></p>
       <p>
         Email:
         <a href="mailto:info@harcorp.org" target="_blank" class="mr-4">
@@ -22,5 +22,5 @@
 </template>
 
 <script setup>
-const year = new Date().getFullYear();
+const year = new Date().getFullYear()
 </script>

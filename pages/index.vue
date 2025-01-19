@@ -36,10 +36,9 @@
         <div class="col-12 lg:col box1 p-5 mb-4">
           <h2 class="mb-4">Harcorp Contract Management Program</h2>
           <p class="mb-4">
-            Harcorp will manage multiple service agreements into one. We do not
-            maintain or repair equipment. Our contract management program will
-            offer any entity reduced costs, vendor flexibility all with a single
-            point of contact.
+            Harcorp will consolidate multiple service agreements into one. Our
+            contract management program will offer vendor flexibility,
+            streamlined costs all with a single point of contact.
           </p>
           <nuxt-link to="/covered-equipment" class="p-button">
             Learn More
@@ -49,35 +48,24 @@
     </section>
     <section class="mb-6">
       <div class="grid">
-        <div class="col-12 lg:col mb-4">
+        <div class="col-12 lg:col flex-order-0 lg:flex-order-1 mb-4">
           <img
-            alt="laptop opened to a analytics dashboard in a virtual workspace"
-            src="/images/virtual-workspace.jpg"
+            alt="desktop computer with a bright abstract background with an iPhone charging in the foreground"
+            src="/images/bid-sourcing.jpg"
           />
         </div>
-        <div class="col-12 lg:col-7 p-4 lg:p-8 mb-4">
-          <h3 class="mb-4">Virtual Workspace</h3>
+        <div
+          class="col-12 lg:col-7 flex-order-1 lg:flex-order-0 p-4 lg:p-8 lg:p-8 mb-4"
+        >
+          <h3 class="mb-4">Additional Services Provided</h3>
+          <h4 class="mb-4">Virtual Workspace</h4>
           <p class="mb-4">
             Harcorp will provide a virtual workspace that will give your team
             access to their workspace based on your company profiles. This will
             allow your team to track and manage every opportunity you wish to
             pursue.
           </p>
-          <p>
-            <a href="mailto:info@harcorp.org">
-              Contact us to learn more
-              <i class="pi pi-angle-double-right" style="font-size: 0.75rem" />
-            </a>
-          </p>
-        </div>
-      </div>
-    </section>
-    <section class="mb-6">
-      <div class="grid">
-        <div
-          class="col-12 lg:col-7 flex-order-1 lg:flex-order-0 p-4 lg:p-8 lg:p-8 mb-4"
-        >
-          <h3 class="mb-4">Bid Sourcing</h3>
+          <h4 class="mb-4">Bid Sourcing</h4>
           <p class="mb-4">
             Harcorp will provide targeted leads directly to your inbox or to
             your virtual workspace. Regional package to include bidding
@@ -90,12 +78,6 @@
               <i class="pi pi-angle-double-right" style="font-size: 0.75rem" />
             </a>
           </p>
-        </div>
-        <div class="col-12 lg:col flex-order-0 lg:flex-order-1 mb-4">
-          <img
-            alt="desktop computer with a bright abstract background with an iPhone charging in the foreground"
-            src="/images/bid-sourcing.jpg"
-          />
         </div>
       </div>
     </section>
@@ -124,13 +106,6 @@
               management office)
             </li>
             <li><strong>561110</strong> (Office administration service).</li>
-          </template>
-        </Card>
-        <div class="col-fixed" style="width: 32px"></div>
-        <Card class="col-12 lg:col mb-4">
-          <template #title>CBE Certification</template>
-          <template #content>
-            <p>Our CBE # is <strong>LSZR6077207202</strong>.</p>
           </template>
         </Card>
         <div class="col-fixed" style="width: 32px"></div>
