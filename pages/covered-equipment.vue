@@ -21,59 +21,61 @@
           />
         </div>
         <div class="col-12 lg:col-7 p-4 lg:p-8 mb-4">
-          <h3 class="mb-4">Covered equipment, includes but not limited to:</h3>
-
+          <h3 class="mb-4">Equipment Categories and Examples</h3>
           <ul>
             <li>
-              COMMUNICATION EQUIPMENT: paging systems, intercoms, telephone
-              systems, voice mail systems, radios, antennas, dispatch consoles,
-              etc.
+              COMMUNICATION EQUIPMENT: Includes paging systems, intercoms,
+              telephone systems, voicemail systems, radios, antennas, and
+              dispatch consoles.
             </li>
 
             <li>
-              FINANCIAL EQUIPMENT: check encoders, imprinters, and processors,
-              currency and coin counters, etc.
+              FINANCIAL EQUIPMENT: Covers check encoders, imprinters,
+              processors, currency counters, and coin counters.
             </li>
 
             <li>
-              LABORATORY EQUIPMENT: autosampler, mass spectrometer, mercury
-              analyzer, chromatography systems, blood gas, data processing
-              hardware, gamma counters, microscopes, analyzers, centrifuges,
-              robotic systems, DNA analyzers and synthesizers, etc.
+              LABORATORY EQUIPMENT: Features autosamplers, mass spectrometers,
+              mercury analyzers, chromatography systems, blood gas analyzers,
+              data processing hardware, gamma counters, microscopes, general
+              analyzers, centrifuges, robotic systems, and DNA analyzers and
+              synthesizers.
             </li>
 
             <li>
-              MAIL PROCESSING EQUIPMENT: mailing systems, power stacker, scale,
-              folder/inserters, letter opener, bar-coding equipment, sorters,
-              etc.
+              MAIL PROCESSING EQUIPMENT: Includes mailing systems, power
+              stackers, scales, folder/inserters, letter openers, barcoding
+              equipment, and sorters.
             </li>
 
             <li>
-              MEDICAL EQUIPMENT: imaging equipment, diagnostic equipment, dental
-              equipment, dispensing equipment, beds, 02 concentrators, med
-              carts, lifts, BP monitors, scanning devices, thermometers, etc.
+              MEDICAL EQUIPMENT: Encompasses imaging devices, diagnostic tools,
+              dental equipment, dispensing machines, hospital beds, oxygen
+              concentrators, medical carts, patient lifts, blood pressure
+              monitors, scanning devices, thermometers, and more.
             </li>
 
             <li>
-              OFFICE EQUIPMENT: shredders, dictation equipment, typewriters,
-              word processors, binding machines, laminators, date/time stampers,
-              time clock system, microfiche, etc.
+              OFFICE EQUIPMENT: Covers shredders, dictation equipment,
+              typewriters, word processors, binding machines, laminators,
+              date/time stampers, time clock systems, and microfiche systems.
             </li>
 
             <li>
-              SECURITY EQUIPMENT: security x-ray unit, alarm systems, card
-              access systems, vaults & safes, video surveillance, etc.
+              SECURITY EQUIPMENT: Includes security X-ray units, alarm systems,
+              card access systems, vaults, safes, and video surveillance
+              equipment.
             </li>
 
             <li>
-              TECHNOLOGY EQUIPMENT: servers, card readers, smart boards,
-              overhead projectors, copiers, printers, scanners, routers, tape
-              drives, etc.
+              TECHNOLOGY EQUIPMENT: Features servers, card readers, smart
+              boards, overhead projectors, copiers, printers, scanners, routers,
+              and tape drives.
             </li>
 
             <li>
-              INDUSTRIAL EQUIPMENT: industrial scales, forklifts, pallet jacks,
-              lift gates, package scanners, etc.
+              INDUSTRIAL EQUIPMENT: Includes industrial scales, forklifts,
+              pallet jacks, lift gates, and package scanners.
             </li>
           </ul>
         </div>

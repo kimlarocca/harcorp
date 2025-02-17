@@ -16,7 +16,11 @@
           requirements and give recommendations on how to best execute an action
           plan to conclusion.
         </p>
-        <a href="mailto:bids@harcorp.org" class="p-button">
+        <a
+          href="https://forms.clickup.com/10625769/f/a48q9-15233/RDYTWZR2IBEAOQ5A1R"
+          target="_blank"
+          class="p-button"
+        >
           Contact Us To Get A Quote
         </a>
       </div>
